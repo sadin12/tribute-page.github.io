@@ -1,0 +1,50 @@
+body{
+    font-size:20px;
+    line-height: 2;
+    letter-spacing: 2px;
+    font-family: sans-serif;
+}
+#title{
+    text-align: center;
+}
+ p {
+   
+     max-width:700px ;
+   margin: auto;
+   text-align: center;
+}
+#img-caption{
+    max-width:800px;
+    text-align: center;
+    margin: auto;
+}
+#main p {
+   
+    margin-bottom: 30px;
+
+}
+  
+
+#image{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+@media (max-width:500px){
+    body{
+        line-height:1.6 ;
+    }
+    p{
+        max-width: 545px;
+        margin:auto;
+        text-align: center;
+    }
+}
+#headline{
+    text-align: center;
+}
+
+
+
+
